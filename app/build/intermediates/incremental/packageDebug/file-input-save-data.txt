@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Sep 02 23:08:09 CEST 2017
+2.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0a3527c2f5441e8279c59d3674e74d94b7d38c20\\classes.dex
+5.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\image_button.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+9.set=DEX
+9.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a7ee8919d1a64b4f44a5052295b3b54cdd49acc\\classes.dex
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0a3527c2f5441e8279c59d3674e74d94b7d38c20
+8.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\image_button_bg.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a7ee8919d1a64b4f44a5052295b3b54cdd49acc
+4.file=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

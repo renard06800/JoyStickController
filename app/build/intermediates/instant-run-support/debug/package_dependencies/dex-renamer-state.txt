@@ -1,0 +1,4 @@
+#Sat Sep 02 23:08:07 CEST 2017
+base.0=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_0b56701617fa7d0796ad9b88e0bb3f7b3c5898dd
+renamed.0=classes.dex
+file.0=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_0b56701617fa7d0796ad9b88e0bb3f7b3c5898dd\\classes.dex

@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout
+        android:id="@+id/layout_thumb_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="3dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/layout_data_thumb_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="3dp"
+            android:orientation="vertical" >
+            <TextView
+                android:id="@+id/textViewXLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="X"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewYLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Y"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewAngleLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Angle"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewDistanceLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Distance"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewDirectionLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Direction"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+        </LinearLayout>
+        <RelativeLayout
+            android:id="@+id/layout_joystick_left"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="3dp"
+            android:background="@drawable/image_button_bg" >
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout_thumb_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="3dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/layout_data_thumb_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="3dp"
+            android:orientation="vertical" >
+            <TextView
+                android:id="@+id/textViewXRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="X"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewYRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Y"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewAngleRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Angle"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewDistanceRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Distance"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+            <TextView
+                android:id="@+id/textViewDirectionRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Direction"
+                android:textColor="#444444"
+                android:textSize="16dp" />
+        </LinearLayout>
+        <RelativeLayout
+            android:id="@+id/layout_joystick_right"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/image_button_bg" >
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

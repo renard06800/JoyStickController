@@ -1,0 +1,7 @@
+#Sat Sep 02 23:08:09 CEST 2017
+base.0=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0a3527c2f5441e8279c59d3674e74d94b7d38c20
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a7ee8919d1a64b4f44a5052295b3b54cdd49acc\\classes.dex
+base.1=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a7ee8919d1a64b4f44a5052295b3b54cdd49acc
+file.0=C\:\\Users\\Sebastien\\Downloads\\virtual-joystick-demo-master\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0a3527c2f5441e8279c59d3674e74d94b7d38c20\\classes.dex
